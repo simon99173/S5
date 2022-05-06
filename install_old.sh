@@ -143,9 +143,9 @@ rm -rf /root/install.sh
 if [ ! -f "/usr/local/bin/s5" ] || [ ! -f "/etc/opt/ss5/service.sh" ]; then
   echo ""
   echo "缺失文件，安装失败！！！"
-  echo "发送邮件反馈bug ：wyx176@gmail.com"
-  echo "或者添加Telegram群反馈"
-  echo "Telegram群：t.me/Socks55555"
+  echo "梵天_专用Socks5"
+  echo "梵天_专用Socks5"
+  echo "梵天_专用Socks5"
   exit 0
 
 else
@@ -163,7 +163,7 @@ echo "默认用户名: www111"
 echo "默认密码  : www222"
 echo "默认端口  : 5555"
 echo ""
-echo "添加Telegram群组@Socks55555及时获取更新"
+echo "梵天_专用Socks5"
 echo ""
 fi
 }
