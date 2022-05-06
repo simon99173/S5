@@ -178,9 +178,9 @@ clear
   echo ""
   echo "缺失文件，安装失败！！！"
   echo "错误提示："${errorMsg}
-  echo "发送邮件反馈bug ：wyx176@gmail.com"
-  echo "或者添加Telegram群反馈"
-  echo "Telegram群：t.me/Socks55555"
+  echo "梵天_专用Socks5"
+  echo "梵天_专用Socks5"
+  echo "梵天_专用Socks5"
   exit 0
 else
 clear
@@ -199,7 +199,7 @@ echo "默认用户名: "${uname}
 echo "默认密码  : "${upasswd}
 echo "默认端口  : "${port}
 echo ""
-echo "添加Telegram群组@Socks55555及时获取更新"
+echo "梵天_专用Socks5"
 echo ""
 exit 0
 fi
